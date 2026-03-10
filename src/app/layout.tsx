@@ -12,9 +12,6 @@ const outfit = Outfit({
 export const metadata: Metadata = {
     title: "NIarkTierList",
     description: "La plateforme de création de Tier List ultime par NIark.",
-    icons: {
-        icon: "/favicon.png",
-    }
 };
 
 
